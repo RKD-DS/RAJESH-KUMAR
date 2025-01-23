@@ -1,19 +1,14 @@
-# Site Settings
 title: Rajesh Kumar - Data Science Portfolio
-description: Professional portfolio showcasing data analysis projects and skills
-
-# Personal Information
+description: Professional portfolio showcasing data analysis and IT experience
 author:
   name: Rajesh Kumar
   email: kumarrajeshdangi@gmail.com
   location: Bhiwani, Haryana
 
-# Social Links
 social:
   linkedin: www.linkedin.com/in/rkd94
-  github: yourusername
+  github: RAJESH-KUMAR
 
-# Professional Details
 skills:
   - SQL
   - Python
@@ -22,5 +17,4 @@ skills:
   - CATIA
   - ANSYS
 
-# Theme Configuration
 theme: jekyll-theme-minimal
